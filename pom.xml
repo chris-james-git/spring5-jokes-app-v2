@@ -8,10 +8,10 @@
 		<version>2.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>guru.springframework.norris.chuck</groupId>
-	<artifactId>jokes</artifactId>
+	<groupId>guru.springframework</groupId>
+	<artifactId>spring5-jokes-app-v2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jokes</name>
+	<name>spring5-jokes-app-v2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

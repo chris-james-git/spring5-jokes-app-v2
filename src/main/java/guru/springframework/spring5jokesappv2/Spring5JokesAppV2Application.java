@@ -1,13 +1,13 @@
-package guru.springframework.norris.chuck.jokes;
+package guru.springframework.spring5jokesappv2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JokesApplication {
+public class Spring5JokesAppV2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JokesApplication.class, args);
+		SpringApplication.run(Spring5JokesAppV2Application.class, args);
 	}
 
 }
